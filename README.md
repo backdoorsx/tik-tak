@@ -26,4 +26,4 @@ $ ./tiktak
 12345
 -1
 
---= tiktak.c =--
+--= tiktak.c ==--
