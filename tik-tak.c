@@ -9,9 +9,7 @@ int main(){
 		scanf("%d", &number);
 		printf("You have entered: %d\n", number);
 
-		if( number > 0 && number < 10000 )
-				;
-		else{
+		if( number < 1 || number > 9999 ){
 				printf("-1\n");
 				return 1;
 		}
