@@ -2,6 +2,7 @@
 Problem set 1
 
 Program na začiatku načíta číslo n, pre ktoré platí: 0 < n < 10000. Váš program následne vypíše na každý riadok samostatne čísla v poradí od 1 po n, pričom dodrží pravidlá uvedené vyššie:
+
 -Ak je číslo deliteľné číslom 3, vypíše miesto neho na obrazovku tik.
 -Ak je číslo deliteľné číslom 5, vypíše miesto neho na obrazovku tak.
 -Ak je číslo deliteľné číslami 3 a 5 súčasne, vypíše miesto nich na obrazovku tiktak.
@@ -26,4 +27,4 @@ $ ./tiktak
 12345
 -1
 
---= tiktak.c ==--
+--= tiktak.c =--
